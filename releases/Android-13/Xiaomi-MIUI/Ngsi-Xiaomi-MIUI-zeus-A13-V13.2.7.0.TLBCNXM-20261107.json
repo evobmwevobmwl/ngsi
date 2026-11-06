@@ -1,0 +1,46 @@
+{
+  "project": "Ngsi (No more gsi updates)",
+  "maintainer": "ArtemOPENGnu",
+  "build_name": "Ngsi-Xiaomi-MIUI-zeus-A13-V13.2.7.0.TLBCNXM-20261107",
+  "oem": "Xiaomi-MIUI",
+  "build_date": "2026-11-07 00:36 MSK",
+  "build_time_min": 25,
+  "source": {
+    "firmware": "miui_ZEUS_V13.2.7.0.TLBCNXM_f8cfa489fb_13.0.zip",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 12 Pro",
+    "model_code": "2201122C",
+    "device": "zeus",
+    "board": "taro",
+    "vendor_fingerprint": "Xiaomi/zeus/zeus:13/SKQ1.220303.001/V13.2.7.0.TLBCNXM:user/release-keys",
+    "brand_model": "Xiaomi 12 Pro"
+  },
+  "android": {
+    "release": "13",
+    "sdk": "33",
+    "security_patch": "2022-10-01",
+    "build_id": "SKQ1.220303.001",
+    "version": "V13.2.7.0.TLBCNXM",
+    "system_fingerprint": "qti/missi_phone_cn/missi:13/TKQ1.220807.001/V13.2.7.0.TLBCNXM:user/release-keys"
+  },
+  "gsi": {
+    "arch": "arm64",
+    "partition": "system (A/B, merged)",
+    "fs": "ext4",
+    "avb": "AOSP test key (SHA256_RSA2048)"
+  },
+  "files": [
+    {
+      "name": "Ngsi-Xiaomi-MIUI-zeus-A13-V13.2.7.0.TLBCNXM-20261107.img",
+      "size": 5632618496,
+      "size_human": "5.25 GB",
+      "sha256": "93d39573e939b70def3d4689335db336d5c4885feadc21d1d2fa897961cf1a35"
+    },
+    {
+      "name": "Ngsi-Xiaomi-MIUI-zeus-A13-V13.2.7.0.TLBCNXM-20261107.zip",
+      "size": 2949699266,
+      "size_human": "2.75 GB",
+      "sha256": "7efc81876c5f789d904a7f3d45ca2a8d54785a63d1199ba53bd2415f57e689a1"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+Ngsi (No more gsi updates) · Xiaomi 12 Pro · Xiaomi-MIUI · Android 13
+========================================================================
+Источник       : miui_ZEUS_V13.2.7.0.TLBCNXM_f8cfa489fb_13.0.zip
+Устройство     : Xiaomi 12 Pro (2201122C, zeus)
+Прошивка       : Xiaomi-MIUI · V13.2.7.0.TLBCNXM
+Board/платформа: taro
+Android        : 13 (SDK 33), патч безопасности 2022-10-01
+Build ID       : SKQ1.220303.001
+System FP      : qti/missi_phone_cn/missi:13/TKQ1.220807.001/V13.2.7.0.TLBCNXM:user/release-keys
+Vendor FP      : Xiaomi/zeus/zeus:13/SKQ1.220303.001/V13.2.7.0.TLBCNXM:user/release-keys
+GSI            : arm64 · A/B · ext4 · AVB test key
+Собрано        : 2026-11-07 00:36 MSK за 25 мин · ArtemOPENGnu
+------------------------------------------------------------------------
+Ngsi-Xiaomi-MIUI-zeus-A13-V13.2.7.0.TLBCNXM-20261107.img
+   размер 5.25 GB (5632618496 байт)
+   sha256 93d39573e939b70def3d4689335db336d5c4885feadc21d1d2fa897961cf1a35
+Ngsi-Xiaomi-MIUI-zeus-A13-V13.2.7.0.TLBCNXM-20261107.zip
+   размер 2.75 GB (2949699266 байт)
+   sha256 7efc81876c5f789d904a7f3d45ca2a8d54785a63d1199ba53bd2415f57e689a1
+------------------------------------------------------------------------
+Включает компоненты под лицензией Apache-2.0.
