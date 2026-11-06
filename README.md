@@ -7,9 +7,7 @@ Maintainer: **ArtemOPENGnu**.
 | Branch | Content |
 |---|---|
 | `main` | this page and the build index |
-| `android-16` | Android 16 build cards |
-| `android-15` | Android 15 build cards |
-| `android-14` | Android 14 build cards |
+| `android-17` … `android-10` | build cards for that Android version (one branch per version) |
 
 Images are attached to [Releases](../../releases). Large images are split into parts
 (`.zip.001`, `.zip.002`): open the first part with 7-Zip / WinRAR, or join them with
