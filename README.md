@@ -15,7 +15,9 @@ Images are attached to [Releases](../../releases). Large images are split into p
 
 ## Builds
 <!-- NGSI-INDEX-START -->
-_No builds yet._
+| Build | Android | OEM | Files |
+|---|---|---|---|
+| Ngsi-Xiaomi-MIUI-zeus-A13-V13.2.7.0.TLBCNXM-20261107 | Android 13 | Xiaomi-MIUI | [download](https://github.com/evobmwevobmwl/ngsi/releases/tag/Ngsi-Xiaomi-MIUI-zeus-A13-V13.2.7.0.TLBCNXM-20261107) |
 <!-- NGSI-INDEX-END -->
 
 ## Install (short)
